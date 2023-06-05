@@ -1,0 +1,4 @@
+05/06/2023 18:57:08 - https://www.google.com.br - online: true
+05/06/2023 18:57:10 - https://digitro.com.br - online: true
+05/06/2023 18:57:15 - https://www.google.com.br - online: true
+05/06/2023 18:57:16 - https://digitro.com.br - online: true
